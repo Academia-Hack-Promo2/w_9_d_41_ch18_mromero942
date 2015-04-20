@@ -1,0 +1,20 @@
+#contenedor {
+  background-color: black;
+  padding: 100% 0;
+  position: absolute;
+}
+.barra {
+  background-color: white;
+  padding: 5% 0;
+  top:-338px;
+  position: relative;
+}
+
+.leti {
+  text-align: center;
+  top: -300px;
+}
+
+img {
+  width: 10%;
+}

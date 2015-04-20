@@ -1,0 +1,91 @@
+#page{
+	margin: 0 auto;
+	padding: 900px;
+	background-color: black;
+} 
+#barra {
+	position: relative
+}
+
+
+ul {
+font-size: 25px;
+}
+
+.btn-default {
+  border-color: #fff;
+  float: right;
+  margin-right: 1cm;
+  margin-top: -30px;
+}
+
+.primera-c {
+	background-color: rgba(80,86,144,0.8); 
+	text-align: center;
+	margin: -80px 26px;
+	height: 10px;
+	min-height: 370px;
+	min-width: 270px;
+	color: #FFF;
+	
+
+}
+.segunda-c {
+	background-color: rgba(110,108,179,0.8);
+	text-align: center;
+	margin: -80px 26px;
+	height: 10px;
+	min-height: 370px;
+	min-width: 270px;
+	color: #FFF;
+	
+}
+
+.tercera-c {
+	background-color: rgba(134,132,219,0.8);
+	text-align: center;
+	margin: -80px 26px;
+	height: 10px;
+	min-height: 370px;
+	min-width: 270px;
+	color: #FFF;
+	
+}
+.col-md-4{
+	min-height: 370px;
+	min-width: 270px;
+	height: 10px;
+
+}
+h4{
+	 font-weight: bold;
+	 font-size: 16px;
+	 color: #FFF;
+
+}
+
+.historia {
+	
+	float: top;
+}
+
+.tercera-c img{
+	bottom: 15px;
+}
+
+.azul{
+	background-color: #0E2036;
+	color: #FFF;
+}
+
+#campo4 {
+	background-color: red;
+}
+
+#final{
+	background-color: #071424;
+	color: #FFF;
+	text-align: center;
+	font-size: 16px;
+	padding: 10px 0;
+}
